@@ -1,5 +1,7 @@
 ## Create Generative AI runbooks to resolve security findings
 
+This repository contains the code for the [Create a Generative AI runbook to resolve security findings](https://catalog.us-east-1.prod.workshops.aws/workshops/943dd78a-d351-49bc-ae84-1b1a25edff7b) builders' session.
+
 Generative AI has the potential to accelerate and streamline security analysis, response, and recovery, enhancing the effectiveness of human engagement. In this workshop, learn how to use [Amazon SageMaker](https://aws.amazon.com/sagemaker/) notebooks and [Amazon Bedrock](https://aws.amazon.com/bedrock/) to quickly resolve security findings in your AWS account. You rely on runbooks for the day-to-day operations, maintenance, and troubleshooting of AWS services. With generative AI, you can gain deeper insights into security findings and take the necessary actions to streamline security analysis and response. You must bring your laptop to participate.
 
 In this workshop, you will learn the art of the possible and how Generative AI can improve your security posture by assisting in remediation of findings. Each module is designed to focus on different techniques.
