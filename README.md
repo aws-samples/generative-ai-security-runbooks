@@ -7,7 +7,7 @@ Generative AI has the potential to accelerate and streamline security analysis, 
 In this workshop, you will learn the art of the possible and how Generative AI can improve your security posture by assisting in remediation of findings. Each module is designed to focus on different techniques.
 
 - In [Module 1](./notebooks/Module1.ipynb) - you will use Claude 3.7 Sonnet from Anthropic to summarize a security findings, provide next steps for remediation, and create code to resolve the finding.
-- In [Module 2](./notebooks/Module2.ipynb) - you will learn tool use (also referred to as function calling), an advanced technique to expand Claude 4.7 Sonnets capabilities to get real time data.
+- In [Module 2](./notebooks/Module2.ipynb) - you will learn tool use (also referred to as function calling), an advanced technique to expand Claude 3.7 Sonnets capabilities to get real time data.
 - In [Module 3](./notebooks/Module3.ipynb) - you will build on tool use and add human-in-the-loop to safely run tools automatically after explicit approval.
 - In [Module 4](./notebooks/Module4.ipynb) - you will learn how to add organization context with Knowledge Bases to remediate findings based on existing security polices.
 
