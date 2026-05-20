@@ -11,7 +11,7 @@ In this workshop, you will learn the art of the possible and how Generative AI c
 - In [Module 3](./notebooks/Module3.ipynb) - you will build on tool use and add human-in-the-loop to safely run tools automatically after explicit approval.
 - In [Module 4](./notebooks/Module4.ipynb) - you will learn how to add organization context with Knowledge Bases to remediate findings based on existing security polices.
 
-This workshop is intended for people with security roles. There is no prior experience required, though some background Generative AI, Python, and Security Hub will help. This workshop takes approximately 45 minutes to complete. By the end of this workshop, you will understand some techniques to use Generative AI in your runbooks.
+This workshop is intended for people with security roles. There is no prior experience required, though some background Generative AI, Python, and Security Hub CSPM will help. This workshop takes approximately 45 minutes to complete. By the end of this workshop, you will understand some techniques to use Generative AI in your runbooks.
 
 These notebooks are intended to be used on Amazon SageMaker. They have been tested on a ml.t3.medium with Amazon Linux 2, Jupyter Lab 3 in us-west-2.
 
